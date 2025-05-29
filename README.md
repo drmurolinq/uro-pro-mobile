@@ -57,3 +57,5 @@ Open Lovable Project
 
 Click Share -> Publish
 
+Custom Domains
+Connect a domain via Project > Settings > Domains. Learn more
