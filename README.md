@@ -31,3 +31,29 @@ npm install
 
 # Start development server
 npm run dev
+Editing Options
+Using Lovable:
+
+Visit the Lovable Project
+
+Changes will be committed automatically
+
+Local Development:
+
+Requires Node.js & npm (install with nvm)
+
+Clone, install dependencies, and run npm run dev
+
+GitHub Options:
+
+Edit files directly in GitHub
+
+Use GitHub Codespaces for cloud development
+
+Deployment
+To deploy:
+
+Open Lovable Project
+
+Click Share -> Publish
+
