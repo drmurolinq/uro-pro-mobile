@@ -7,17 +7,19 @@ This monorepo integrates multiple components of the URO-PRO platform:
 
 ## Project Info
 
-### uro-pro-app (Frontend)
-This app is built using:
+**URL**: https://lovable.dev/projects/ae070199-aebb-4db7-8945-09c4efa510ba
+
+### Technologies
+This project is built with:
 - Vite
 - TypeScript
 - React
-- Tailwind CSS
 - shadcn-ui
+- Tailwind CSS
 
-It is configured for collaborative development using [Lovable](https://lovable.dev/projects/ae070199-aebb-4db7-8945-09c4efa510ba).
+## Development
 
-**How to get started:**
+### Getting Started
 
 ```bash
 # Clone the repo
@@ -29,4 +31,3 @@ npm install
 
 # Start development server
 npm run dev
-
