@@ -1,0 +1,9 @@
+{
+  "name": "uro-pro-mobile",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "apps/uro-pro-app",
+    "apps/uro-pro-health"
+  ]
+}
